@@ -27,17 +27,16 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
   <navMap>
     <navPoint class="chapter" id="index" playOrder="1">
       <navLabel><text>Index</text></navLabel>
-      <content src="content/index.xhtml"/>
+      <content src="content/index.html"/>
     </navPoint>
     <navPoint class="chapter" id="part1" playOrder="2">
       <navLabel><text>Parte 1 – Orientações gerais</text></navLabel>
-      <content src="content/part1.xhtml"/>
+      <content src="content/part1.html"/>
     </navPoint>
     <navPoint class="chapter" id="part2" playOrder="3">
       <navLabel><text>Parte 2 - Orientações Específicas e propostas de atividades – 7.º ano</text></navLabel>
-      <content src="content/part2.xhtml"/>
+      <content src="content/part2.html"/>
     </navPoint>
   </navMap>
 
 </ncx>
-

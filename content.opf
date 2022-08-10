@@ -23,9 +23,9 @@
   </metadata> 
 
   <manifest>
-      <item id="index" href="content/index.xhtml" media-type="application/xhtml+xml"/>
-      <item id="part1" href="content/part1.xhtml" media-type="application/xhtml+xml"/> 
-      <item id="part2" href="content/part2.xhtml" media-type="application/xhtml+xml"/>  
+      <item id="index" href="content/index.html" media-type="application/html+xml"/>
+      <item id="part1" href="content/part1.html" media-type="application/html+xml"/> 
+      <item id="part2" href="content/part2.html" media-type="application/html+xml"/>  
       <item id="stylesheet" href="resources/styles/style.css" media-type="text/css"/>
       <item id="cover" properties="cover-image" href="cover.jpeg" media-type="image/jpeg" /> 
       <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
